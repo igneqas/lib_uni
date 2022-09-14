@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">LibraryApp</string>
+    <string name="email_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="loginButton_text">Log in</string>
+    <string name="reservation_button_text">Make reservation</string>
+    <string name="deleteButton">Delete account</string>
+    <string name="number">Phone number</string>
+    <string name="email">Email</string>
+    <string name="saveUserButton">Save</string>
+    <string name="password">Password</string>
+    <string name="name">Full name</string>
+    <string name="sign_out_button_text">Sign out</string>
+    <string name="selected">selected</string>
+    <string name="username_text">Username</string>
+    <string name="confirm_button_text">Confirm</string>
+    <string name="back_button_text">Cancel</string>
+    <string name="back_text">Back</string>
+    <string name="my_reservations_text">My reservations:</string>
+</resources>
